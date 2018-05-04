@@ -4,6 +4,9 @@ https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student
 https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/Ko/B_2000_L.jpg
 https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/Ko/B_2014_R.jpg
 
+https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/Lim/A_Lim1929_L.png
+https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/Lim/A_Lim2017_R.png
+
 https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/DaneilFauxKannan/A_Johannesburg_L.jpg
 https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/DaneilFauxKannan/A_Johannesburg_R.jpg
 
@@ -12,6 +15,9 @@ https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student
 
 https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/Rhodes/A_1987_L.jpg
 https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/Rhodes/A_2018_R.jpg
+
+https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/Gawande/A_Gawande_L.jpg
+https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/Gawande/A_Gawande_R.jpg
 
 https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/LeeOngP/T01.png
 https://raw.githubusercontent.com/CenterForSpatialResearch/infrapolitics_student_images/master/LeeOngP/T02_SanJavier.jpg
