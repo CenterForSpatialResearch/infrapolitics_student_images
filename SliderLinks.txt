@@ -1,0 +1,16 @@
+Ko_A
+https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=121eb4ee-4e80-11e8-b263-0edaf8f81e27
+Ko_B
+https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=6a614054-4e80-11e8-b263-0edaf8f81e27
+
+DaneilFauxKannan_A
+https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9b7ed89a-4e80-11e8-b263-0edaf8f81e27
+
+Nelson_A
+https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=c844ef40-4e80-11e8-b263-0edaf8f81e27
+
+Rhodes_A
+https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=15d49a9e-4e81-11e8-b263-0edaf8f81e27
+
+Gawande_A
+https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3728a438-4e81-11e8-b263-0edaf8f81e27
